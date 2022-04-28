@@ -1,14 +1,4 @@
-
-
 database:
- user: root
- password: 123
- server: localhost
- port: 3306
- 
- firstKey: firstObj
-secondKey: 4
-thirdKey:
-- one
-- 2
-- true
+  password: admin
+  server: 127.0.0.1
+  user: kofi
